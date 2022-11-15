@@ -1,2 +1,3 @@
 This is FileB
 Lets make a new change
+Thisis a new change
